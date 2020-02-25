@@ -1,4 +1,10 @@
 # theMDNofObjects
+
+## Description ##
+by Amanda Mills-Hubbard
+
+JavaScript has two data types, primitive and reference. Primitive data types consist of booleans, strings, numbers, null, undefined, and symbol. Objects are reference data types which is what we’ll be focusing on. An object is a collection of related data which usually consists of several properties and methods. The way an object’s data is stored is in the form of key: value pairs. 
+Key/Value pairs represent strings and values, values can be further broken down and be categorized as methods, which are known as functions. This is why functions are classified as objects in javascript.
  
 ## Properties ##
 by Sebastian
@@ -41,6 +47,7 @@ By: Thais Nascimento
 
 
 ## Object-Oriented Programming ##
+by Abigail Ezedonmwen
 * What is OOP?
   * Object-oriented programming (OOP) is a way of writing computer programs which is using the idea of "objects" to represent data and methods.
 * Why is OOP useful?
